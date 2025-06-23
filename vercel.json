@@ -4,8 +4,8 @@
   "builds": [],
   "routes": [
     {
-      "src": "/(.*)",
-      "dest": "/index.html"
+    "version": 2,
+  "public": true
     }
   ]
 }
